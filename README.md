@@ -1,2 +1,2 @@
 # OpenStack-MultiNode-Cloud-Deployment
-Deployed a multi node (a controller node and a compute node) Openstack cloud
+Deployed a multi node (a controller node and a compute node) Openstack cloud in VMWare machines using Devstack.
